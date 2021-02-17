@@ -3,19 +3,20 @@
 If you are using this code, please cite our work using the following BIBTEX citation:
 
 ```
-@article{DBLP:journals/corr/abs-2003-14393,
+@inproceedings{DBLP:conf/cdc/VemulaB20,
   author    = {Anirudh Vemula and
                J. Andrew Bagnell},
-  title     = {{TRON:} {A} Fast Solver for Trajectory Optimization with Non-Smooth
+  title     = {Tron: {A} Fast Solver for Trajectory Optimization with Non-Smooth
                Cost Functions},
-  journal   = {CoRR},
-  volume    = {abs/2003.14393},
+  booktitle = {59th {IEEE} Conference on Decision and Control, {CDC} 2020, Jeju Island,
+               South Korea, December 14-18, 2020},
+  pages     = {4157--4163},
+  publisher = {{IEEE}},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2003.14393},
-  archivePrefix = {arXiv},
-  eprint    = {2003.14393},
-  timestamp = {Thu, 02 Apr 2020 15:34:08 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2003-14393.bib},
+  url       = {https://doi.org/10.1109/CDC42340.2020.9303915},
+  doi       = {10.1109/CDC42340.2020.9303915},
+  timestamp = {Tue, 19 Jan 2021 12:30:29 +0100},
+  biburl    = {https://dblp.org/rec/conf/cdc/VemulaB20.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
