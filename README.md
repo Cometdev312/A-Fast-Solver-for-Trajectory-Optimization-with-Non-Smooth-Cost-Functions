@@ -9,7 +9,7 @@ If you are using this code, please cite our work using the following BIBTEX cita
   title     = {Tron: {A} Fast Solver for Trajectory Optimization with Non-Smooth
                Cost Functions},
   booktitle = {59th {IEEE} Conference on Decision and Control, {CDC} 2020, Jeju Island,
-               South Korea, December 14-18, 2020},
+               December 14-18, 2020},
   pages     = {4157--4163},
   publisher = {{IEEE}},
   year      = {2020},
@@ -60,3 +60,6 @@ python -m TRON.main_satellite --exp
 ## Contributors
 
 The repository is maintained and developed by [Anirudh Vemula](https://vvanirudh.github.io/) from the Search Based Planning Laboratory (SBPL), and Learning and Artificial Intelligence Laboratory (LairLab) at CMU
+
+
+`If you have any question with this project,feel free to reach out`
